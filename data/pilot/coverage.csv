@@ -1,0 +1,3 @@
+station_id,start,end,calendar_days,q_days,ssc_days,paired_days,paired_pct,paired_with_ssc_lag1,paired_with_both_ssc_lags,paired_water_years,reported_load_days
+05389500,1984-10-01,1987-09-30,1095,978,1095,978,89.32,977,976,3,942
+05465500,1984-10-01,1987-09-30,1095,1005,1095,1005,91.78,1004,1003,3,1065
