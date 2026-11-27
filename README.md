@@ -8,6 +8,12 @@ Daily discharge and suspended sediment concentration data for extending the West
 | Iowa River at Wapello, Iowa | `05465500` | Water years 1985–1987 |
 | Choptank River near Greensboro, Maryland | `01491000` | Candidate for the digital-data build |
 
+## Pilot data preview
+
+![Paired daily discharge and sediment concentration coverage for the two archived pilot stations](docs/previews/pilot-coverage.svg)
+
+*Coverage calculated from the archived pilot’s station summary. A paired day has both discharge and sediment concentration. The 1,095-day window covers water years 1985–1987.*
+
 ## Start here
 
 - [Screened daily observations](data/pilot/daily.csv)
